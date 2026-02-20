@@ -29,5 +29,3 @@ Python.
 
 ### Lucas Lira
 Estudante em Engenharia de Computação na UFU e técnico de TI, amante de tecnologia e inovação, atualmente no meu tempo livre estudo para mercado estágio backend com Java, Python.
-
-**voar o mais alto que puder**
